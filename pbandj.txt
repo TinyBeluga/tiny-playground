@@ -18,3 +18,16 @@
 18. Close bread container
 19. Put pb and j sandwich on plate
 20. Eat pb and j sandwich
+
+// Edge cases
+1. Where to go to buy pb, j, bread?
+2. What if store does not have pb, j, or bread?
+3. What kind of pb, j, bread?
+4. If store has slicing machine, ask them to slice bread?
+5. How to open containers of pb, j, and bread?
+6. What if don't have knife?
+7. How thick to spread pb and j?
+8. Put 2 pieces of bread with pb + j facing each other
+9. How to close pb, j, bread containers?
+10. Where to get plate?
+11. What if no plate?
