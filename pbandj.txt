@@ -1,23 +1,35 @@
-1. Buy bread
-2. Buy jelly
-3. Buy peanut butter
-4. Come back home
-5. Open bread container
-6. Open jelly container
-7. Open peanut butter container
-8. Take out 2 pieces of bread
-9. Lie the 2 pieces of bread flat
-10. Take out a spreading knife from drawer
-11. Take some peanut butter
-12. Spread the peanut butter on one piece of bread
-13. Take some jelly
-14. Spread the jelly on the other piece of bread
-15. Put the 2 pieces of bread together
-16. Close peanut butter container
-17. Close jelly container
-18. Close bread container
-19. Put pb and j sandwich on plate
-20. Eat pb and j sandwich
+Go to C-town
+Pick up shopping basket
+If store has bread, put bread into shopping basket
+If store has peanut butter, put peanut butter into shopping basket
+If store has jelly, put jelly into shopping basket
+Go to checkout
+Pay for whatever was purchased
+If pb, jelly, or bread are missing in your bag, then go to Natural's
+Repeat steps 3-7
+If pb, jelly, or bread are missing in your bag, then forget about making pb + j sandwich
+Come back home
+Open bread plastic bag by tearing it apart
+Open jelly container by twisting the top clockwise
+Open peanut butter container by twisting the top clockwise
+Take out 2 pieces of bread
+Lie the 2 pieces of bread flat
+Take out a spreading knife from drawer
+If no knife, then use spoon
+If no spoon, then use fork
+If no fork, then forget about making pb + j sandwich
+Take some peanut butter
+Spread .3 inches of the peanut butter on one piece of bread
+Take some jelly
+Spread .3 inches of the jelly on the other piece of bread
+Put the 2 pieces of bread together with pb + j sides facing eacher other
+Close peanut butter container by twisting top counter clockwise
+Close jelly container by twisting top counter clockwise
+Close bread container
+Put pb and j sandwich on plate
+If no plate, then put it on a napkin
+If no napkin, then just hold it in your hands
+Eat pb and j sandwich
 
 // Edge cases
 1. Where to go to buy pb, j, bread?
