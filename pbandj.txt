@@ -1,0 +1,20 @@
+1. Buy bread
+2. Buy jelly
+3. Buy peanut butter
+4. Come back home
+5. Open bread container
+6. Open jelly container
+7. Open peanut butter container
+8. Take out 2 pieces of bread
+9. Lie the 2 pieces of bread flat
+10. Take out a spreading knife from drawer
+11. Take some peanut butter
+12. Spread the peanut butter on one piece of bread
+13. Take some jelly
+14. Spread the jelly on the other piece of bread
+15. Put the 2 pieces of bread together
+16. Close peanut butter container
+17. Close jelly container
+18. Close bread container
+19. Put pb and j sandwich on plate
+20. Eat pb and j sandwich
